@@ -8,6 +8,7 @@ namespace JenkinsConsoleApp
         {
             var name = "raj kumar golla";
             Console.WriteLine("My name is "+ name);
+            Console.ReadLine();
         }
     }
 }
