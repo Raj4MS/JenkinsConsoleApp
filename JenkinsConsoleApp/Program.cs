@@ -6,7 +6,7 @@ namespace JenkinsConsoleApp
     {
         public static void Main(string[] args)
         {
-            var name = "raj kumar golla";
+            var name = "Gautham Raj";
             Console.WriteLine("My name is "+ name);
             Console.ReadLine();
         }
