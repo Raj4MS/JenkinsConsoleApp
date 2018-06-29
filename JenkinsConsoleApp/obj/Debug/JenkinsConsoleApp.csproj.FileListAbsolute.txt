@@ -1,0 +1,6 @@
+D:\Raj4MS\Projects\JenkinsConsoleApp\JenkinsConsoleApp\bin\Debug\JenkinsConsoleApp.exe.config
+D:\Raj4MS\Projects\JenkinsConsoleApp\JenkinsConsoleApp\bin\Debug\JenkinsConsoleApp.exe
+D:\Raj4MS\Projects\JenkinsConsoleApp\JenkinsConsoleApp\bin\Debug\JenkinsConsoleApp.pdb
+D:\Raj4MS\Projects\JenkinsConsoleApp\JenkinsConsoleApp\obj\Debug\JenkinsConsoleApp.csprojResolveAssemblyReference.cache
+D:\Raj4MS\Projects\JenkinsConsoleApp\JenkinsConsoleApp\obj\Debug\JenkinsConsoleApp.exe
+D:\Raj4MS\Projects\JenkinsConsoleApp\JenkinsConsoleApp\obj\Debug\JenkinsConsoleApp.pdb
